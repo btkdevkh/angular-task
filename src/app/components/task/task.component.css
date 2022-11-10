@@ -1,0 +1,12 @@
+.task {
+  background-color: #ddd;
+  margin-bottom: 5px;
+}
+h4 {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+.reminder {
+  border-left: 5px solid green;
+}
